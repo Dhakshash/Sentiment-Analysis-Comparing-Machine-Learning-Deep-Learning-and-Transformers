@@ -164,4 +164,9 @@ This project showcases how **NLP modeling has evolved** over time, and how **arc
 
 By keeping the test set fixed and using separate augmentation strategies per model, we ensure a fair and meaningful comparison. BERT and ELECTRA set the benchmark for modern NLP classification tasks.
 
+---
+
+## 🤝 Connect
+For questions, collaborations, or opportunities related to AI in finance and risk modeling, feel free to connect through dhakshashganesan@gmail.com or GitHub.
+
 
