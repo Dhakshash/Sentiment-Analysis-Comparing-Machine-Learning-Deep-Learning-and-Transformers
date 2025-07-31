@@ -12,11 +12,12 @@ Each model was trained on the **same training set** and evaluated on the **same 
 
 ## 📁 Files Overview
 
-XGBOOST.ipynb → Classical ML pipeline (TF-IDF + XGBoost)
-LSTM.ipynb → Deep Learning model (BiLSTM + GloVe)
-BERT.ipynb → Transformer model (BERT fine-tuning)
-ELECTRA.ipynb → Transformer model (ELECTRA fine-tuning)
-Augumented_Data.ipynb → Back-translation logic (EN→DE→EN) using MarianMT
+- `XGBOOST.ipynb` → Classical ML pipeline (TF-IDF + XGBoost)
+- `LSTM.ipynb` → Deep Learning model (BiLSTM + GloVe)
+- `BERT.ipynb` → Transformer model (BERT fine-tuning)
+- `ELECTRA.ipynb` → Transformer model (ELECTRA fine-tuning)
+- `Augumented_Data.ipynb` → Back-translation logic (EN→DE→EN) using MarianMT
+
 ---
 
 ## 🧮 1. Machine Learning
